@@ -30,6 +30,7 @@ CLASS DIAGRAM :
 <img width="1278" height="868" alt="image" src="https://github.com/user-attachments/assets/a2df3464-5418-4ddd-a6e3-7280359a6b6b" />
 ACTIVITY DIAGRAM:
 <img width="694" height="1029" alt="image" src="https://github.com/user-attachments/assets/70c95084-0183-4a6e-a828-9bdef0518d58" />
+
 PACKAGE DIAGRAM:
 <img width="663" height="235" alt="image" src="https://github.com/user-attachments/assets/1de93436-7b88-4bc9-ab3e-2b1599e26568" />
 
